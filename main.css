@@ -1,8 +1,7 @@
 #searchbar {
 width: 80%;
 margin-left: 2%;
-border-radius: 40px;
-outline-width: 0;
+border: 0;
 }
 
 #searchbar-container {
