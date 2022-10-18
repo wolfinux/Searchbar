@@ -1,4 +1,12 @@
 #searchbar {
+width: 20%;
 margin-left: 2%;
-border-radius: 40px; 
+border-radius: 40px;
+outline: 0;
+}
+
+#searchbar-container {
+width: 25%;
+border-radius: 40px;
+outline: 5px solid rgba(168,168,168);
 }
