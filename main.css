@@ -1,3 +1,7 @@
+#title {
+font-size: 400%;
+}
+
 #searchbar {
 width: 80%;
 margin-left: 2%;
@@ -7,6 +11,6 @@ outline-style: none;
 
 #searchbar-container {
 width: 25%;
-border-radius: 40px;
+border-radius: 1.5rem;
 outline: 1px solid rgba(168,168,168);
 }
